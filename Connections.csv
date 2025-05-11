@@ -2,163 +2,146 @@ Notes:
 "When exporting your connection data, you may notice that some of the email addresses are missing. You will only see email addresses for connections who have allowed their connections to see or download their email address using this setting https://www.linkedin.com/psettings/privacy/email. You can learn more here https://www.linkedin.com/help/linkedin/answer/261"
 
 First Name,Last Name,URL,Email Address,Company,Position,Connected On
-Michael,Chen,https://www.linkedin.com/in/michaelchen-tech,mchen@techcorp.com,TechCorp Solutions,Senior Software Engineer,23 Apr 2025
-Sarah,Williams,https://www.linkedin.com/in/sarahwilliamsdata,,DataAnalytics Pro,Lead Data Scientist,22 Apr 2025
-James,Rodriguez,https://www.linkedin.com/in/jamesrodriguez-pm,,Agile Dynamics,Product Manager,22 Apr 2025
-Priya,Patel,https://www.linkedin.com/in/priyapatel-marketing,,InnovateMX,Marketing Director,21 Apr 2025
-David,Thompson,https://www.linkedin.com/in/davidthompson-finance,dthompson@fintech.com,FinTech Innovations,Chief Financial Officer,20 Apr 2025
-Lisa,Johnson,https://www.linkedin.com/in/lisajohnson-hr,,Talent Solutions Inc,VP Human Resources,19 Apr 2025
-Robert,Lee,https://www.linkedin.com/in/robertlee-devops,,CloudTech Systems,DevOps Engineer,18 Apr 2025
-Elena,Vasquez,https://www.linkedin.com/in/elenavasquez-law,,Legal Partners LLP,Senior Partner,17 Apr 2025
-Daniel,Kim,https://www.linkedin.com/in/danielkim-ux,,DesignStudio Pro,UX Lead,16 Apr 2025
-Amanda,Brown,https://www.linkedin.com/in/amandabrown-sales,abrown@salesforce.com,Salesforce,Enterprise Account Executive,15 Apr 2025
-Thomas,Garcia,https://www.linkedin.com/in/thomasgarcia-ai,,AI Research Labs,Research Scientist,14 Apr 2025
-Jennifer,Martinez,https://www.linkedin.com/in/jennifermartinez-content,,ContentCraft Media,Content Strategy Director,13 Apr 2025
-Michael,Davis,https://www.linkedin.com/in/michaeldavis-entrepreneur,,StartupVentures,Founder & CEO,12 Apr 2025
-Ashley,Wilson,https://www.linkedin.com/in/ashleywilson-ops,,Operations Excellence Corp,Operations Director,11 Apr 2025
-Joshua,Taylor,https://www.linkedin.com/in/joshuataylor-security,jtaylor@cybersec.com,CyberSecure Solutions,CISO,10 Apr 2025
-Rachel,Anderson,https://www.linkedin.com/in/rachelanderson-research,,BioTech Innovations,Research Director,09 Apr 2025
-Kevin,Thomas,https://www.linkedin.com/in/kevinthomas-mobile,,Mobile First Technologies,iOS Developer,08 Apr 2025
-Monica,Jackson,https://www.linkedin.com/in/monicajackson-consulting,,Strategy Consultants,Senior Consultant,07 Apr 2025
-Anthony,White,https://www.linkedin.com/in/anthonywhite-cloud,,Amazon Web Services,Solutions Architect,06 Apr 2025
-Samantha,Harris,https://www.linkedin.com/in/samanthaharris-digital,sharris@digitalmarketing.com,Digital Marketing Agency,Digital Marketing Manager,05 Apr 2025
-Eric,Clark,https://www.linkedin.com/in/ericclark-blockchain,,Blockchain Ventures,Blockchain Developer,04 Apr 2025
-Lauren,Lewis,https://www.linkedin.com/in/laurenlewis-education,,EdTech Solutions,Learning Experience Designer,03 Apr 2025
-Justin,Walker,https://www.linkedin.com/in/justinwalker-growth,,Growth Hacking Co,Growth Manager,02 Apr 2025
-Megan,Hall,https://www.linkedin.com/in/meganhall-product,,Product Innovations Inc,Senior Product Manager,01 Apr 2025
-Brian,Allen,https://www.linkedin.com/in/brianallen-data,ballen@analytics.com,Data Analytics Corp,Principal Data Engineer,31 Mar 2025
-Natalie,Young,https://www.linkedin.com/in/natalieyoung-social,,Social Media Experts,Social Media Director,30 Mar 2025
-Andrew,King,https://www.linkedin.com/in/andrewking-qa,,Quality Assurance Systems,QA Lead,29 Mar 2025
-Olivia,Wright,https://www.linkedin.com/in/oliviawright-pr,,Public Relations Solutions,PR Director,28 Mar 2025
-Ryan,Lopez,https://www.linkedin.com/in/ryanlopez-gaming,,GameDev Studio,Game Developer,27 Mar 2025
-Catherine,Hill,https://www.linkedin.com/in/catherinehill-legal,chill@lawfirm.com,Legal Innovations LLP,Legal Technology Manager,26 Mar 2025
-Jason,Scott,https://www.linkedin.com/in/jasonscott-business,,Business Intelligence Solutions,BI Analyst,25 Mar 2025
-Isabella,Green,https://www.linkedin.com/in/isabellagreen-travel,,Travel Tech Innovations,Product Owner,24 Mar 2025
-Brandon,Adams,https://www.linkedin.com/in/brandonadams-supply,,Supply Chain Dynamics,Supply Chain Manager,23 Mar 2025
-Sophia,Baker,https://www.linkedin.com/in/sophiabaker-health,,HealthTech Solutions,Healthcare Innovation Lead,22 Mar 2025
-Tyler,Gonzalez,https://www.linkedin.com/in/tylergonzalez-real,tgonzalez@realestate.com,Real Estate Technologies,Real Estate Technology Manager,21 Mar 2025
-Grace,Nelson,https://www.linkedin.com/in/gracenelson-env,,Environmental Solutions Inc,Sustainability Director,20 Mar 2025
-Aaron,Carter,https://www.linkedin.com/in/aaroncarter-mobile,,Mobile Solutions Corp,Android Developer,19 Mar 2025
-Victoria,Mitchell,https://www.linkedin.com/in/victoriamitchell-ai,,AI Research Institute,Machine Learning Engineer,18 Mar 2025
-Noah,Perez,https://www.linkedin.com/in/noahperez-medical,,Medical Innovations Inc,Medical Technology Specialist,17 Mar 2025
-Chloe,Roberts,https://www.linkedin.com/in/chloeroberts-event,croberts@events.com,Event Management Solutions,Event Director,16 Mar 2025
-Jacob,Turner,https://www.linkedin.com/in/jacobturner-finance,,FinTech Enterprises,Financial Analyst,15 Mar 2025
-Ava,Phillips,https://www.linkedin.com/in/avaphillips-content,,Content Creation Studio,Creative Director,14 Mar 2025
-Ethan,Campbell,https://www.linkedin.com/in/ethancampbell-sports,,Sports Technology Inc,Sports Analytics Manager,13 Mar 2025
-Mia,Parker,https://www.linkedin.com/in/miaparker-fashion,,Fashion Tech Innovations,Fashion Technology Director,12 Mar 2025
-Alexander,Evans,https://www.linkedin.com/in/alexanderevans-cloud,aevans@cloud.com,Cloud Infrastructure Solutions,Cloud Architect,11 Mar 2025
-Lillian,Edwards,https://www.linkedin.com/in/lilliatedwards-hr,,Human Capital Solutions,Talent Development Manager,10 Mar 2025
-Logan,Collins,https://www.linkedin.com/in/logancollins-security,,InfoSec Consultants,Information Security Analyst,09 Mar 2025
-Emma,Stewart,https://www.linkedin.com/in/emmastewart-energy,,Renewable Energy Tech,Energy Technology Manager,08 Mar 2025
-Carter,Sanchez,https://www.linkedin.com/in/cartersanchez-gaming,,Mobile Gaming Studio,Game Producer,07 Mar 2025
-Hannah,Morris,https://www.linkedin.com/in/hannahmorris-legal,hmorris@lawtech.com,Legal Technology Partners,Legal Tech Specialist,06 Mar 2025
-Lucas,Rogers,https://www.linkedin.com/in/lucasrogers-auto,,Automotive Technology Inc,Automotive Software Engineer,05 Mar 2025
-Zoe,Reed,https://www.linkedin.com/in/zoereed-biotech,,Biotech Research Labs,Biotechnology Researcher,04 Mar 2025
-Caleb,Cook,https://www.linkedin.com/in/calebcook-aerospace,,Aerospace Innovations,Aerospace Engineer,03 Mar 2025
-Lily,Morgan,https://www.linkedin.com/in/lilymorgan-edu,,Educational Technology Solutions,EdTech Product Manager,02 Mar 2025
-Mason,Bell,https://www.linkedin.com/in/masonbell-media,mbell@mediatech.com,Media Technology Corporation,Media Technology Director,01 Mar 2025
-Sophie,Murphy,https://www.linkedin.com/in/sophiemurphy-retail,,Retail Innovation Labs,Retail Technology Specialist,28 Feb 2025
-Isaac,Bailey,https://www.linkedin.com/in/isaacbailey-robotics,,Robotics Systems Inc,Robotics Engineer,27 Feb 2025
-Ava,Rivera,https://www.linkedin.com/in/avarivera-insurance,,InsurTech Solutions,Insurance Technology Lead,26 Feb 2025
-Jonah,Cooper,https://www.linkedin.com/in/jonahcooper-quantum,,Quantum Computing Research,Quantum Research Scientist,25 Feb 2025
-Maya,Richardson,https://www.linkedin.com/in/mayarichardson-food,mrichardson@foodtech.com,Food Technology Innovations,Food Tech Director,24 Feb 2025
-Henry,Cox,https://www.linkedin.com/in/henrycox-space,,Space Technology Corporation,Space Systems Engineer,23 Feb 2025
-Audrey,Howard,https://www.linkedin.com/in/audreyhoward-pharma,,Pharmaceutical Technology Inc,Pharma Technology Manager,22 Feb 2025
-Owen,Ward,https://www.linkedin.com/in/owenward-cleantech,,CleanTech Innovations,Clean Technology Lead,21 Feb 2025
-Bella,Torres,https://www.linkedin.com/in/bellatorres-transport,,Transportation Technology Ltd,Transport Technology Specialist,20 Feb 2025
-Nathan,Peterson,https://www.linkedin.com/in/nathanpeterson-nanotech,npeterson@nanotech.com,Nanotechnology Solutions,Nanotech Research Director,19 Feb 2025
-Gabby,Gray,https://www.linkedin.com/in/gabbygray-marine,,Marine Technology Systems,Marine Technology Engineer,18 Feb 2025
-Julian,James,https://www.linkedin.com/in/julianjames-agri,,Agricultural Technology Inc,AgTech Product Manager,17 Feb 2025
-Clara,Watson,https://www.linkedin.com/in/clarawatson-textiles,,Textile Innovation Labs,Textile Technology Designer,16 Feb 2025
-Elijah,Brooks,https://www.linkedin.com/in/elijahbrooks-materials,,Advanced Materials Research,Materials Science Engineer,15 Feb 2025
-Penelope,Kelly,https://www.linkedin.com/in/penelopekelly-bio,pkelly@bioengineering.com,Bioengineering Solutions,Bioengineering Manager,14 Feb 2025
-Colton,Sanders,https://www.linkedin.com/in/coltonsanders-neural,,Neural Interface Technology,Neural Engineering Lead,13 Feb 2025
-Scarlett,Price,https://www.linkedin.com/in/scarlettprice-smart,,Smart City Solutions,Smart City Technology Director,12 Feb 2025
-Maxwell,Bennett,https://www.linkedin.com/in/maxwellbennett-chem,,Chemical Technology Corp,Chemical Process Engineer,11 Feb 2025
-Annabelle,Wood,https://www.linkedin.com/in/annabellewood-3d,,3D Technology Innovations,3D Printing Specialist,10 Feb 2025
-Declan,Barnes,https://www.linkedin.com/in/declanbarnes-laser,dbarnes@lasertech.com,Laser Technology Systems,Laser Systems Engineer,09 Feb 2025
-Elena,Ross,https://www.linkedin.com/in/elenaross-optics,,Optical Technology Solutions,Optics Research Scientist,08 Feb 2025
-Jaxon,Henderson,https://www.linkedin.com/in/jaxonhenderson-semi,,Semiconductor Technologies,Semiconductor Engineer,07 Feb 2025
-Hazel,Coleman,https://www.linkedin.com/in/hazelcoleman-sensor,,Sensor Technology Inc,Sensor Development Lead,06 Feb 2025
-Grayson,Jenkins,https://www.linkedin.com/in/graysonjenkins-battery,,Battery Technology Innovations,Battery Systems Engineer,05 Feb 2025
-Aurora,Perry,https://www.linkedin.com/in/auroraperry-solar,aperry@solartech.com,Solar Technology Corporation,Solar Technology Manager,04 Feb 2025
-Cameron,Long,https://www.linkedin.com/in/cameronlong-wind,,Wind Energy Technology,Wind Technology Specialist,03 Feb 2025
-Layla,Patterson,https://www.linkedin.com/in/laylapatterson-hydro,,Hydro Technology Solutions,Hydro Systems Engineer,02 Feb 2025
-Wyatt,Hughes,https://www.linkedin.com/in/wyatthughes-geo,,Geothermal Technology Inc,Geothermal Energy Engineer,01 Feb 2025
-Ruby,Flores,https://www.linkedin.com/in/rubyflores-nuclear,,Nuclear Technology Research,Nuclear Engineer,31 Jan 2025
-Sebastian,Washington,https://www.linkedin.com/in/sebastianwashington-fusion,swashington@fusiontech.com,Fusion Technology Labs,Fusion Research Scientist,30 Jan 2025
-Savannah,Butler,https://www.linkedin.com/in/savannahbutler-bio,,Biomedicine Technology,Biomedical Engineer,29 Jan 2025
-Josiah,Simmons,https://www.linkedin.com/in/josiahsimmons-cryogenic,,Cryogenic Technology Corp,Cryogenics Specialist,28 Jan 2025
-Violet,Foster,https://www.linkedin.com/in/violetfoster-plasma,,Plasma Technology Solutions,Plasma Physics Engineer,27 Jan 2025
-Tristan,Gonzales,https://www.linkedin.com/in/tristangonzales-magnet,,Magnetic Technology Inc,Magnetic Systems Designer,26 Jan 2025
-Willow,Bryant,https://www.linkedin.com/in/willowbryant-wave,wbryant@wavetech.com,Wave Technology Innovations,Wave Energy Engineer,25 Jan 2025
-Silas,Alexander,https://www.linkedin.com/in/silasalexander-tidal,,Tidal Technology Systems,Tidal Energy Specialist,24 Jan 2025
-Athena,Russell,https://www.linkedin.com/in/athenarussell-kinetic,,Kinetic Energy Technology,Kinetic Systems Engineer,23 Jan 2025
-Miles,Griffin,https://www.linkedin.com/in/milesgriffin-pressure,,Pressure Technology Solutions,Pressure Systems Designer,22 Jan 2025
-Delilah,Diaz,https://www.linkedin.com/in/delilahdiaz-fluid,,Fluid Dynamics Technology,Fluid Systems Engineer,21 Jan 2025
-Felix,Hayes,https://www.linkedin.com/in/felixhayes-thermo,fhayes@thermotech.com,Thermal Technology Corp,Thermal Engineer,20 Jan 2025
-Nora,Myers,https://www.linkedin.com/in/noramyers-acoustic,,Acoustic Technology Inc,Acoustic Engineer,19 Jan 2025
-Ezra,Ford,https://www.linkedin.com/in/ezraford-vibration,,Vibration Technology Solutions,Vibration Analysis Specialist,18 Jan 2025
-Cora,Hamilton,https://www.linkedin.com/in/corahamilton-shock,,Shock Absorption Technology,Shock Systems Engineer,17 Jan 2025
-Asher,Graham,https://www.linkedin.com/in/ashergraham-resonance,,Resonance Technology Labs,Resonance Engineer,16 Jan 2025
-Piper,Sullivan,https://www.linkedin.com/in/pipersullivan-harmonic,psullivan@harmonictech.com,Harmonic Technology Inc,Harmonic Systems Specialist,15 Jan 2025
-Emmett,Wallace,https://www.linkedin.com/in/emmettwallace-sound,,Sound Technology Solutions,Sound Engineer,14 Jan 2025
-Ellie,Woods,https://www.linkedin.com/in/elliewoods-ultra,,Ultrasonic Technology Corp,Ultrasonic Systems Designer,13 Jan 2025
-Leo,Kennedy,https://www.linkedin.com/in/leokennedy-infra,,Infrared Technology Inc,Infrared Specialist,12 Jan 2025
-Aria,Weaver,https://www.linkedin.com/in/ariaweaver-micro,,Microwave Technology Solutions,Microwave Engineer,11 Jan 2025
-Ezekiel,Mills,https://www.linkedin.com/in/ezekielmills-radio,emills@radiotech.com,Radio Frequency Technology,RF Engineer,10 Jan 2025
-Ivy,Gibson,https://www.linkedin.com/in/ivygibson-spectrum,,Spectrum Technology Labs,Spectrum Analyst,09 Jan 2025
-Everett,Knight,https://www.linkedin.com/in/everettknight-comm,,Communications Technology Inc,Communications Engineer,08 Jan 2025
-Eva,Lane,https://www.linkedin.com/in/evalane-signal,,Signal Processing Technology,Signal Processing Specialist,07 Jan 2025
-Ian,Rose,https://www.linkedin.com/in/ianrose-digital,,Digital Signal Processing Corp,DSP Engineer,06 Jan 2025
-Maple,Stone,https://www.linkedin.com/in/maplestone-analog,mstone@analogtech.com,Analog Technology Solutions,Analog Design Engineer,05 Jan 2025
-Rowan,Hunter,https://www.linkedin.com/in/rowanhunter-mixed,,Mixed Signal Technology Inc,Mixed Signal Engineer,04 Jan 2025
-Seraphina,Duncan,https://www.linkedin.com/in/seraphinaduncan-power,,Power Electronics Technology,Power Systems Engineer,03 Jan 2025
-Archer,Freeman,https://www.linkedin.com/in/archerfreeman-control,,Control Systems Technology,Control Engineer,02 Jan 2025
-Winter,Palmer,https://www.linkedin.com/in/winterpalmer-auto,,Automation Technology Solutions,Automation Specialist,01 Jan 2025
-Kai,Hawkins,https://www.linkedin.com/in/kaihawkins-industrial,khawkins@industrial.com,Industrial Technology Inc,Industrial Engineer,31 Dec 2024
-Sage,George,https://www.linkedin.com/in/sagegeorge-mechanical,,Mechanical Technology Corp,Mechanical Engineer,30 Dec 2024
-River,Fisher,https://www.linkedin.com/in/riverfisher-electrical,,Electrical Technology Solutions,Electrical Engineer,29 Dec 2024
-Nova,Reynolds,https://www.linkedin.com/in/novareynolds-civil,,Civil Technology Inc,Civil Engineer,28 Dec 2024
-Phoenix,Ellis,https://www.linkedin.com/in/phoenixellis-structural,,Structural Technology Labs,Structural Engineer,27 Dec 2024
-Orion,Harrison,https://www.linkedin.com/in/orionharrison-env,oharrison@envtech.com,Environmental Technology Corp,Environmental Engineer,26 Dec 2024
-Luna,Gibson,https://www.linkedin.com/in/lunagibson-water,,Water Technology Solutions,Water Treatment Engineer,25 Dec 2024
-Jasper,Fowler,https://www.linkedin.com/in/jasperfowler-waste,,Waste Management Technology,Waste Engineer,24 Dec 2024
-Amara,Sims,https://www.linkedin.com/in/amarasims-mining,,Mining Technology Inc,Mining Engineer,23 Dec 2024
-Orion,Hansen,https://www.linkedin.com/in/orionhansen-petro,,Petroleum Technology Corp,Petroleum Engineer,22 Dec 2024
-Iris,Owen,https://www.linkedin.com/in/irisowen-chemical,iowen@chemtech.com,Chemical Engineering Technology,Chemical Engineer,21 Dec 2024
-Atlas,Morrison,https://www.linkedin.com/in/atlasmorrison-bio,,Biochemical Technology Solutions,Biochemical Engineer,20 Dec 2024
-Echo,Spencer,https://www.linkedin.com/in/echospencer-food,,Food Processing Technology Inc,Food Engineer,19 Dec 2024
-Zara,Schmidt,https://www.linkedin.com/in/zaraschmidt-textile,,Textile Engineering Technology,Textile Engineer,18 Dec 2024
-Axel,Snyder,https://www.linkedin.com/in/axelsnyder-materials,,Materials Engineering Technology,Materials Engineer,17 Dec 2024
-Sage,West,https://www.linkedin.com/in/sagewest-aerospace,swest@aerospace.com,Aerospace Engineering Technology,Aerospace Engineer,16 Dec 2024
-Nova,Fox,https://www.linkedin.com/in/novafox-marine,,Marine Engineering Technology,Marine Engineer,15 Dec 2024
-Phoenix,Day,https://www.linkedin.com/in/phoenixday-naval,,Naval Architecture Technology,Naval Architect,14 Dec 2024
-Luna,Ray,https://www.linkedin.com/in/lunaray-ocean,,Ocean Engineering Technology,Ocean Engineer,13 Dec 2024
-Jasper,Ward,https://www.linkedin.com/in/jasperward-offshore,,Offshore Engineering Technology,Offshore Engineer,12 Dec 2024
-Amara,Bell,https://www.linkedin.com/in/amarabell-subsea,abell@submarine.com,Subsea Engineering Technology,Subsea Engineer,11 Dec 2024
-Orion,Cruz,https://www.linkedin.com/in/orioncruz-deep,,Deep Sea Technology Inc,Deep Sea Engineer,10 Dec 2024
-Iris,Webb,https://www.linkedin.com/in/iriswebb-arctic,,Arctic Technology Solutions,Arctic Systems Engineer,09 Dec 2024
-Atlas,Rice,https://www.linkedin.com/in/atlasrice-polar,,Polar Technology Corp,Polar Research Engineer,08 Dec 2024
-Echo,Silva,https://www.linkedin.com/in/echosilva-antarctic,,Antarctic Research Technology,Antarctic Technology Specialist,07 Dec 2024
-Zara,Hayes,https://www.linkedin.com/in/zarahayes-ice,zhayes@icetech.com,Ice Technology Innovations,Ice Systems Engineer,06 Dec 2024
-Axel,Myers,https://www.linkedin.com/in/axelmyers-snow,,Snow Technology Solutions,Snow Management Specialist,05 Dec 2024
-Nova,Ford,https://www.linkedin.com/in/novaford-winter,,Winter Technology Inc,Winter Systems Engineer,04 Dec 2024
-Phoenix,Tucker,https://www.linkedin.com/in/phoenixtucker-cold,,Cold Chain Technology,Cold Chain Manager,03 Dec 2024
-Luna,Grant,https://www.linkedin.com/in/lunagrant-freeze,,Freeze Technology Corp,Freezing Systems Specialist,02 Dec 2024
-Jasper,Wells,https://www.linkedin.com/in/jasperwells-thermal,jwells@thermal.com,Thermal Management Technology,Thermal Engineer,01 Dec 2024
-Amara,Stone,https://www.linkedin.com/in/amarastone-heat,,Heat Transfer Technology,Heat Exchange Engineer,30 Nov 2024
-Orion,Black,https://www.linkedin.com/in/orionblack-cool,,Cooling Technology Solutions,Cooling Systems Designer,29 Nov 2024
-Iris,Price,https://www.linkedin.com/in/irisprice-hvac,,HVAC Technology Inc,HVAC Engineer,28 Nov 2024
-Atlas,Burns,https://www.linkedin.com/in/atlasburns-ventilation,,Ventilation Technology Corp,Ventilation Specialist,27 Nov 2024
-Echo,Perry,https://www.linkedin.com/in/echoperry-air,eperry@airtech.com,Air Technology Solutions,Air Quality Engineer,26 Nov 2024
-Zara,Mills,https://www.linkedin.com/in/zaramills-indoor,,Indoor Environment Technology,Indoor Air Quality Specialist,25 Nov 2024
-Axel,Reeves,https://www.linkedin.com/in/axelreeves-building,,Building Technology Inc,Building Systems Engineer,24 Nov 2024
-Nova,Bishop,https://www.linkedin.com/in/novabishop-smart,,Smart Building Technology,Smart Building Specialist,23 Nov 2024
-Phoenix,Campbell,https://www.linkedin.com/in/phoenixcampbell-iot,,IoT Building Solutions,IoT Systems Engineer,22 Nov 2024
-Luna,Murray,https://www.linkedin.com/in/lunamurray-automation,lmurray@buildingauto.com,Building Automation Technology,Building Automation Engineer,21 Nov 2024
-Jasper,Reid,https://www.linkedin.com/in/jasperreid-energy,,Energy Management Technology,Energy Systems Manager,20 Nov 2024
-Sage,Newman,https://www.linkedin.com/in/sagenewman-efficiency,,Energy Efficiency Technology,Energy Efficiency Specialist,19 Nov 2024
-River,Arnold,https://www.linkedin.com/in/riverarnold-renewable,,Renewable Energy Integration,Renewable Systems Engineer,18 Nov 2024
-Nova,Rice,https://www.linkedin.com/in/novarice-green,,Green Technology Solutions,Green Tech Manager,17 Nov 2024
-Phoenix,Bradley,https://www.linkedin.com/in/phoenixbradley-sustainable,pbradley@sustainable.com,Sustainable Technology Inc,Sustainability Engineer,16 Nov 2024
+Michael,Chen,https://www.linkedin.com/in/michaelchen-tech,mchen@techcorp.com,TechCorp Solutions,Senior Software Engineer,20 Feb 2022
+Sarah,Williams,https://www.linkedin.com/in/sarahwilliamsdata,,DataAnalytics Pro,Lead Data Scientist,7 Oct 2021
+James,Rodriguez,https://www.linkedin.com/in/jamesrodriguez-pm,,Agile Dynamics,Product Manager,14 Apr 2020
+Priya,Patel,https://www.linkedin.com/in/priyapatel-marketing,,InnovateMX,Marketing Director,2 Jul 2023
+David,Thompson,https://www.linkedin.com/in/davidthompson-finance,dthompson@fintech.com,FinTech Innovations,Chief Financial Officer,25 Nov 2022
+Lisa,Johnson,https://www.linkedin.com/in/lisajohnson-hr,,StrategyFirst Consulting,HR Business Partner,15 Jan 2020
+Robert,Lee,https://www.linkedin.com/in/robertlee-sales,robertl@salesmaster.com,SalesMaster Inc.,Senior Sales Manager,3 Sep 2024
+Elena,Vasquez,https://www.linkedin.com/in/elenavasquez-ux,,UX Design Studio,Senior UX Designer,28 May 2022
+Daniel,Kim,https://www.linkedin.com/in/danielkim-dev,daniel.kim@devspace.io,DevSpace Technologies,Full Stack Developer,11 Mar 2023
+Amanda,Brown,https://www.linkedin.com/in/amandabrown-ops,,OperationsPlus,Operations Director,18 Aug 2021
+Eric,Zhang,https://www.linkedin.com/in/ericzhang-ai,ezhang@airesearch.org,AI Research Labs,Research Scientist,29 Jun 2019
+Maria,Garcia,https://www.linkedin.com/in/mariagarcia-qa,,QualityTech Solutions,QA Lead,5 Dec 2022
+Thomas,Wilson,https://www.linkedin.com/in/thomaswilson-cloud,twilson@cloudproviders.com,Cloud Providers Ltd.,Cloud Architect,17 Sep 2020
+Anna,Kowalska,https://www.linkedin.com/in/annakowalska-pm,,Productivity Tools Co.,Project Manager,23 Apr 2024
+Kevin,Murphy,https://www.linkedin.com/in/kevinmurphy-cyber,,CyberSecure Solutions,Cybersecurity Analyst,9 Feb 2021
+Samantha,Davis,https://www.linkedin.com/in/samanthadavis-content,s.davis@contentwrites.com,ContentWriters Agency,Content Strategist,31 Oct 2023
+Mohammed,Ali,https://www.linkedin.com/in/mohammedali-mobile,,MobileTech Innovations,Android Developer,13 Jul 2019
+Laura,Miller,https://www.linkedin.com/in/lauramiller-biz,lmiller@bizgrowth.com,Business Growth Partners,Business Analyst,26 Jan 2022
+William,Jones,https://www.linkedin.com/in/williamjones-legal,,LegalTech Solutions,Legal Counsel,8 May 2024
+Rachel,Taylor,https://www.linkedin.com/in/racheltaylor-design,,Creative Designs Ltd.,Graphic Designer,19 Mar 2021
+Andrew,Anderson,https://www.linkedin.com/in/andrewanderson-startup,a.anderson@startupventures.com,Startup Ventures,Co-founder,4 Nov 2023
+Jennifer,White,https://www.linkedin.com/in/jenniferwhite-edu,,EduTech Learning,Educational Specialist,22 Aug 2020
+Ryan,Thomas,https://www.linkedin.com/in/ryanthomas-ops,rthomas@logistics.com,Global Logistics,Operations Manager,10 Jun 2022
+Emily,Moore,https://www.linkedin.com/in/emilymoore-health,,HealthTech Solutions,Healthcare Consultant,1 Dec 2019
+Christopher,Martin,https://www.linkedin.com/in/christophermartin-fin,,FinAdvisors Group,Financial Advisor,16 Sep 2021
+Sophia,Jackson,https://www.linkedin.com/in/sophiajackson-research,s.jackson@marketresearch.com,Market Research Corp.,Market Researcher,30 Apr 2023
+Joshua,Harris,https://www.linkedin.com/in/joshuaharris-devops,,DevOps Solutions,DevOps Engineer,24 Feb 2020
+Olivia,Clark,https://www.linkedin.com/in/oliviaclark-social,,Social Media Dynamics,Social Media Manager,12 Nov 2024
+Nathan,Rodriguez,https://www.linkedin.com/in/nathanrodriguez-blockchain,nrodriguez@crypto.com,Crypto Innovations,Blockchain Developer,6 Jul 2022
+Grace,Lewis,https://www.linkedin.com/in/gracelewis-writing,,Wordsmith Publishing,Technical Writer,27 Jan 2019
+Ethan,Walker,https://www.linkedin.com/in/ethanwalker-data,ethan@dataanalytics.io,Data Analytics Pro,Data Engineer,14 Oct 2021
+Isabella,Hall,https://www.linkedin.com/in/isabellahall-supply,,SupplyChain Experts,Supply Chain Analyst,3 May 2024
+Mason,Young,https://www.linkedin.com/in/masonyoung-cloud,,CloudFirst Technologies,Cloud Consultant,18 Mar 2022
+Ava,King,https://www.linkedin.com/in/avaking-ux,a.king@uxdesigns.com,UX Designs Studio,Lead UX Researcher,9 Aug 2020
+Liam,Wright,https://www.linkedin.com/in/liamwright-mobile,,AppDevelopment Inc.,iOS Developer,25 Jun 2023
+Mia,Lopez,https://www.linkedin.com/in/mialopez-writing,,TechWriters Agency,Senior Technical Writer,11 Feb 2019
+Noah,Hill,https://www.linkedin.com/in/noahhill-business,nhill@consulting.com,Business Consulting Group,Management Consultant,28 Sep 2021
+Emma,Scott,https://www.linkedin.com/in/emmascott-product,,ProductLaunch Studio,Product Designer,15 Dec 2022
+Logan,Green,https://www.linkedin.com/in/logangreen-qa,lgreen@softwaretest.com,Software Testing Solutions,Senior QA Engineer,2 Jul 2024
+Amara,Adams,https://www.linkedin.com/in/amaradams-digital,,Digital Marketing Hub,Digital Marketing Specialist,19 May 2019
+Jackson,Baker,https://www.linkedin.com/in/jacksonbaker-cyber,,CyberDefense Corp.,Information Security Analyst,7 Nov 2023
+Lily,Gonzalez,https://www.linkedin.com/in/lilygonzalez-content,l.gonzalez@content.com,Content Creation Studios,Content Writer,22 Apr 2021
+Carter,Nelson,https://www.linkedin.com/in/carternelson-dev,,WebDevelopment Solutions,Frontend Developer,13 Jan 2024
+Harper,Mitchell,https://www.linkedin.com/in/harmichell-pm,h.mitchell@agile.com,Agile Project Management,Agile Coach,1 Aug 2020
+Evelyn,Roberts,https://www.linkedin.com/in/evelynroberts-legal,,Corporate Law Associates,Legal Advisor,26 Oct 2022
+Caleb,Morris,https://www.linkedin.com/in/calebmorris-data,cmorris@bigdata.com,Big Data Analytics,Senior Data Analyst,14 Jun 2019
+Sofia,Watson,https://www.linkedin.com/in/sofiawatson-growth,,GrowthHacking Partners,Growth Marketing Manager,3 Mar 2023
+Grayson,Brooks,https://www.linkedin.com/in/graysonbrooks-seo,,SEO Specialists,SEO Consultant,17 Sep 2024
+Aria,Kelly,https://www.linkedin.com/in/ariakelly-design,a.kelly@creative.com,Creative Solutions Agency,Creative Director,5 Dec 2021
+Owen,Sanders,https://www.linkedin.com/in/owensanders-cloud,,Multi-Cloud Services,Solutions Architect,29 Jul 2020
+Layla,Cox,https://www.linkedin.com/in/laylacox-business,,Strategy Consulting,Business Strategist,16 Feb 2022
+Wyatt,Reed,https://www.linkedin.com/in/wyattreed-mobile,wreed@mobileapps.com,Mobile App Development,Chief Technology Officer,8 Nov 2023
+Zoe,Stewart,https://www.linkedin.com/in/zoestewart-research,,Market Intelligence,Research Analyst,24 May 2019
+Nolan,Parker,https://www.linkedin.com/in/nolanparker-devops,,Container Solutions,DevOps Architect,11 Jan 2022
+Aurora,Evans,https://www.linkedin.com/in/auroraevans-writing,a.evans@technical.com,Technical Content Services,Documentation Specialist,2 Oct 2024
+Hudson,Collins,https://www.linkedin.com/in/hudsoncollins-ai,,Artificial Intelligence Lab,AI Engineer,18 Apr 2020
+Stella,Cooper,https://www.linkedin.com/in/stellacooper-growth,,Startup Accelerator,Venture Partner,6 Aug 2023
+Leo,Price,https://www.linkedin.com/in/leoprice-backend,lprice@backend.io,Backend Systems Inc.,Backend Developer,23 Dec 2021
+Natalie,Barnes,https://www.linkedin.com/in/nataliebarnes-ecommerce,,E-commerce Solutions,E-commerce Specialist,10 Jun 2019
+Ezra,Powell,https://www.linkedin.com/in/ezrapowell-blockchain,,Cryptocurrency Exchange,Crypto Trader,27 Mar 2022
+Hazel,Long,https://www.linkedin.com/in/hazellong-fintech,h.long@fintech.com,FinTech Startup,Financial Analyst,14 Nov 2024
+Asher,Ross,https://www.linkedin.com/in/asherross-social,,Social Impact Ventures,Social Entrepreneur,4 Sep 2020
+Violet,Bailey,https://www.linkedin.com/in/violetbailey-legal,,Intellectual Property Law,IP Attorney,21 Jul 2023
+Elias,Rivera,https://www.linkedin.com/in/eliasrivera-supply,erivera@supply.com,Supply Chain Innovations,Logistics Coordinator,9 Feb 2019
+Alice,Murphy,https://www.linkedin.com/in/alicemurphy-hr,,Talent Acquisition Pro,Recruiting Manager,26 May 2022
+Miles,Foster,https://www.linkedin.com/in/milesfoster-mobile,,Mobile Gaming Studio,Game Developer,12 Jan 2024
+Penelope,Ward,https://www.linkedin.com/in/penelopeward-content,p.ward@marketing.com,Content Marketing Solutions,Content Marketing Manager,31 Aug 2021
+Austin,Marshall,https://www.linkedin.com/in/austinmarshall-backend,,Server Technologies,Systems Engineer,19 Oct 2019
+Chloe,Barnes,https://www.linkedin.com/in/chloebarnes-ux,,Interactive Designs,UX/UI Designer,7 Apr 2023
+Sebastian,Reid,https://www.linkedin.com/in/sebastianreid-cloud,sreid@cloud.com,Enterprise Cloud Solutions,Cloud Engineer,25 Sep 2020
+Leah,Gutierrez,https://www.linkedin.com/in/leahgutierrez-digital,,Digital Strategy Consulting,Digital Strategist,13 Jun 2022
+Dylan,Hayes,https://www.linkedin.com/in/dylanhayes-seo,,Search Marketing Pro,SEO Manager,2 Mar 2024
+Bella,Warren,https://www.linkedin.com/in/bellawarren-sales,,Enterprise Sales Solutions,Sales Director,17 Dec 2021
+Aaron,Torres,https://www.linkedin.com/in/aarontorres-project,,Construction Management,Project Coordinator,5 Aug 2019
+Madeline,Foster,https://www.linkedin.com/in/madelinefoster-qa,m.foster@testing.com,Quality Assurance Systems,QA Director,23 May 2023
+Connor,Diaz,https://www.linkedin.com/in/connordiaz-analytics,,Business Intelligence Co.,BI Analyst,10 Nov 2020
+Paisley,Coleman,https://www.linkedin.com/in/paisleycoleman-legal,,Employment Law Group,Employment Attorney,27 Jan 2022
+Gabriel,Santos,https://www.linkedin.com/in/gabrielsantos-devops,,Automation Systems,DevOps Lead,14 Jul 2024
+Brooklyn,Wilson,https://www.linkedin.com/in/brooklynwilson-writing,,Copywriting Agency,Senior Copywriter,3 Apr 2021
+Jaxon,Patel,https://www.linkedin.com/in/jaxonpatel-crypto,jpatel@crypto.com,Blockchain Ventures,Crypto Analyst,20 Dec 2022
+Skylar,Richardson,https://www.linkedin.com/in/skylarrichardson-product,,ProductDev Studio,Senior Product Manager,8 Sep 2019
+Tyler,Morgan,https://www.linkedin.com/in/tylermorgan-ai,,Machine Learning Labs,ML Engineer,26 Jun 2023
+Kinsley,Edwards,https://www.linkedin.com/in/kinsleyedwards-social,k.edwards@social.com,Social Strategy Group,Social Media Strategist,15 Feb 2024
+Jordan,Reed,https://www.linkedin.com/in/jordanreed-business,,Management Consulting,Senior Consultant,1 Nov 2020
+Quinn,Bell,https://www.linkedin.com/in/quinnbell-design,,Design Innovations,Principal Designer,19 Aug 2021
+Easton,Campbell,https://www.linkedin.com/in/eastoncampbell-mobile,,AppDevel Inc.,Mobile Developer,6 May 2022
+Aubrey,Ross,https://www.linkedin.com/in/aubreyross-growth,a.ross@growth.com,Growth Analytics,Growth Analyst,24 Jan 2019
+Lincoln,Bryant,https://www.linkedin.com/in/lincolnbryant-supply,,Supply Chain Solutions,Procurement Manager,10 Oct 2023
+Savannah,Woods,https://www.linkedin.com/in/savannahwoods-hr,,People Operations,Talent Acquisition Lead,29 Mar 2024
+Hunter,Russell,https://www.linkedin.com/in/hunterrussell-sales,,B2B Sales Group,Account Executive,16 Jul 2020
+Paisley,Hughes,https://www.linkedin.com/in/paisleyhughes-digital,,Digital Marketing Agency,PPC Specialist,4 Dec 2021
+Cole,Long,https://www.linkedin.com/in/colelong-backend,clong@tech.com,Backend Development,Software Architect,21 May 2022
+Sadie,Fisher,https://www.linkedin.com/in/sadiefisher-content,,Content Strategy Co.,Content Director,9 Sep 2019
+Brody,Sanders,https://www.linkedin.com/in/brodysanders-blockchain,,DeFi Solutions,Smart Contract Developer,27 Feb 2023
+Claire,Peters,https://www.linkedin.com/in/clairepeters-research,,UX Research Lab,Senior UX Researcher,14 Nov 2024
+Bryson,James,https://www.linkedin.com/in/brysonjames-cyber,b.james@security.com,CyberSecurity Pro,Security Engineer,2 Aug 2020
+Adeline,Wright,https://www.linkedin.com/in/adelinewright-pm,,Agile Delivery,Scrum Master,20 Jun 2023
+Roman,Bailey,https://www.linkedin.com/in/romanbailey-data,,Data Science Corp.,Principal Data Scientist,7 Mar 2019
+Delilah,Carter,https://www.linkedin.com/in/delilahcarter-legal,,Patent Law Firm,Patent Attorney,26 Oct 2021
+Gideon,Ramirez,https://www.linkedin.com/in/gideonramirez-cloud,,Cloud Architecture,Lead Solutions Architect,13 May 2022
+Rhett,Wallace,https://www.linkedin.com/in/rhettwallace-marketing,r.wallace@marketing.com,Growth Marketing Agency,Marketing Manager,1 Dec 2023
+Magnolia,Simpson,https://www.linkedin.com/in/magnoliasimpson-education,,EdTech Platform,Learning Experience Designer,18 Apr 2020
+Kobe,Torres,https://www.linkedin.com/in/kobetorres-qa,,SoftwareTesting Pro,Lead QA Engineer,5 Sep 2024
+Remi,Anderson,https://www.linkedin.com/in/remianderson-product,,Product Strategy Group,VP Product,22 Jan 2021
+Koda,Clark,https://www.linkedin.com/in/kodaclark-social,,Social Commerce,E-commerce Manager,10 Aug 2019
+Sienna,Martinez,https://www.linkedin.com/in/sienniartinez-writing,s.martinez@copy.com,Copywriting Collective,Lead Copywriter,28 May 2022
+Judah,Brooks,https://www.linkedin.com/in/judahbrooks-fullstack,,FullStack Solutions,Principal Engineer,15 Nov 2023
+Sloane,Bailey,https://www.linkedin.com/in/sloanebailey-design,,Design Systems,Head of Design,3 Jul 2024
+Orion,White,https://www.linkedin.com/in/orionwhite-operations,o.white@ops.com,Operations Excellence,Operations Director,19 Feb 2021
+Lyra,Green,https://www.linkedin.com/in/lyragreen-analytics,,Marketing Analytics,Analytics Manager,7 Dec 2022
+Bodhi,Taylor,https://www.linkedin.com/in/bodhitaylor-mobile,,Mobile Tech Inc.,Senior Mobile Developer,25 Aug 2019
+Esme,Adams,https://www.linkedin.com/in/esmeadams-legal,,Corporate Legal,Corporate Counsel,12 Apr 2023
+Felix,Davis,https://www.linkedin.com/in/felixdavis-cloud,,Cloud Infrastructure,DevOps Architect,1 Jan 2024
+Imogen,Miller,https://www.linkedin.com/in/imogenmiller-research,i.miller@research.com,Market Research Pro,Senior Researcher,18 Sep 2020
+Kai,Wilson,https://www.linkedin.com/in/kaiwilson-ai,,AI Development,AI Researcher,6 Jun 2022
+Willa,Moore,https://www.linkedin.com/in/willamoore-social,,Social Impact,Social Good Manager,24 Mar 2021
+River,Brown,https://www.linkedin.com/in/riverbrown-fullstack,,Web Development Co.,Full Stack Lead,11 Oct 2023
+Marlowe,Thomas,https://www.linkedin.com/in/marlowethomas-content,,Content Operations,Editorial Director,29 Jul 2019
+Zephyr,Rodriguez,https://www.linkedin.com/in/zephyrrodriguez-business,z.rodriguez@biz.com,Business Development,BD Director,16 May 2022
+Nova,Garcia,https://www.linkedin.com/in/novagarcia-design,,Brand Design Studio,Brand Designer,4 Dec 2024
+Onyx,Lee,https://www.linkedin.com/in/onyxlee-sales,,Enterprise Sales,Senior Sales Engineer,21 Sep 2020
+Sage,Lopez,https://www.linkedin.com/in/sagelopez-product,,Product Innovation,Chief Product Officer,8 Jun 2023
+Phoenix,Hall,https://www.linkedin.com/in/phoenixhall-marketing,p.hall@growth.com,Growth Marketing Pro,Head of Growth,26 Feb 2019
+India,Young,https://www.linkedin.com/in/indiayoung-research,,Consumer Research,Research Director,14 Nov 2021
+Orion,King,https://www.linkedin.com/in/orionking-tech,,Tech Leadership,CTO,2 Aug 2022
+Seraphina,Wright,https://www.linkedin.com/in/seraphinawright-legal,,Tax Law Group,Tax Attorney,20 May 2019
+Atlas,Scott,https://www.linkedin.com/in/atlasscott-cloud,a.scott@cloud.com,Cloud Platform,Principal Cloud Architect,7 Mar 2024
+Juniper,Hill,https://www.linkedin.com/in/juniperhill-content,,Technical Writing,Documentation Manager,25 Sep 2021
+Cassius,Evans,https://www.linkedin.com/in/cassiusevans-security,,InfoSec Solutions,Chief Security Officer,12 Jan 2020
+Lyric,Morris,https://www.linkedin.com/in/lyricmorris-analytics,l.morris@analytics.com,Business Analytics,Analytics Lead,30 Aug 2023
+Osiris,Jackson,https://www.linkedin.com/in/osirisjackson-backend,,API Development,Backend Lead,17 Apr 2022
+Daphne,Martin,https://www.linkedin.com/in/daphnemartin-education,,Learning Technology,Instructional Designer,5 Nov 2024
+Indigo,Harris,https://www.linkedin.com/in/indigoharris-product,,UX Product,Lead Product Designer,22 Jun 2019
+Jasper,Thompson,https://www.linkedin.com/in/jasperthompson-mobile,j.thompson@mobile.com,Mobile Strategy,Head of Mobile,9 Sep 2021
+Azalea,Davis,https://www.linkedin.com/in/azaleadavis-social,,Creator Economy,Creator Relations Manager,27 Mar 2023
+Axel,Robinson,https://www.linkedin.com/in/axelrobinson-blockchain,,Web3 Development,Blockchain Architect,15 Dec 2019
+Meadow,Johnson,https://www.linkedin.com/in/meadowjohnson-ops,,Process Optimization,Operations Manager,3 Jul 2022
+Dash,Martinez,https://www.linkedin.com/in/dashmartinez-data,,Data Platform,Data Engineering Manager,21 Oct 2023
+Arden,Williams,https://www.linkedin.com/in/ardenwilliams-legal,a.williams@law.com,Legal Technology,Legal Tech Specialist,8 May 2020
+Forest,Miller,https://www.linkedin.com/in/forestmiller-ai,,AI Ethics,AI Governance Lead,26 Jan 2024
+Sierra,Anderson,https://www.linkedin.com/in/sierraanderson-growth,,Growth Strategy,Head of Growth Strategy,14 Aug 2021
+Echo,Wilson,https://www.linkedin.com/in/echowilson-design,,Experience Design,Senior UX Strategist,1 Jun 2022
+Sage,Thomas,https://www.linkedin.com/in/sagethomas-product,,Product Management,Director of Product,19 Feb 2019

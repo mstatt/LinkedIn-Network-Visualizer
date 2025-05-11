@@ -42,13 +42,13 @@ st.markdown("""
         color: #0077b5;
     }
     .badge {
-border: 2px solid #0077b5;
+	border: 2px solid #0077b5;
         padding: 5px 10px;
         border-radius: 12px;
         font-size: 12px;
     }
     .company-badge {
-border: 2px solid #0077b5;
+	border: 2px solid #0077b5;
         padding: 3px 8px;
         border-radius: 8px;
         font-size: 11px;
@@ -75,6 +75,12 @@ border: 2px solid #0077b5;
     }
     .info-text {
         color: #666;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+    
+    .info-text2 {
+        color: #008000;
         font-size: 14px;
         line-height: 1.6;
     }
@@ -113,7 +119,7 @@ border: 2px solid #0077b5;
 
 # Title and description
 st.title("LinkedIn Network Visualizer")
-st.write("Upload your LinkedIn Connections.csv file to visualize your professional network.")
+
 
 # Initialize session state
 if 'selected_node' not in st.session_state:
@@ -127,6 +133,7 @@ st.markdown("""
     <h3 style="color: #0077b5; margin-bottom: 20px;">Upload Your LinkedIn Data</h3>
     <p class="info-text">Download your LinkedIn data archive and upload the Connections.csv file.</p>
     <p class="info-text">To download your data: LinkedIn Settings → Privacy → Get a copy of your data → Request archive</p>
+    <p class="info-text2">*** To test now, use the sample Connections.csv file in the solution directory *** </p>
 </div>
 """, unsafe_allow_html=True)
 
