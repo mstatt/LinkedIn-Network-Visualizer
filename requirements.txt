@@ -1,0 +1,19 @@
+# LinkedIn Network Visualizer Requirements
+# Core web framework
+streamlit>=1.28.0
+
+# Graph and network analysis
+networkx>=3.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive visualizations
+plotly>=5.15.0
+
+# Additional dependencies for Streamlit
+streamlit-components-v1>=0.0.1
+
+# Date and time handling
+python-dateutil>=2.8.2
