@@ -9,7 +9,7 @@ import random
 from io import StringIO
 
 # Set page configuration
-st.set_page_config(page_title="LinkedIn Social Graph Visualizer", layout="wide")
+st.set_page_config(page_title="LinkedIn Network Visualizer", layout="wide")
 
 # Add Bootstrap CSS
 st.markdown("""
@@ -22,11 +22,11 @@ st.markdown("""
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         background-color: white;
         border: 1px solid #e0e0e0;
-        color: #0077b5;
+        color: #f0f8ff;
     }
     .card-header {
-        background-color: #0077b5;
-        color: white;
+        color: #ffffff;  !important;
+	border: 2px solid #0077b5;
         border-radius: 8px 8px 0 0;
         padding: 15px;
         margin: -20px -20px 20px -20px;
@@ -42,15 +42,13 @@ st.markdown("""
         color: #0077b5;
     }
     .badge {
-        background-color: #0077b5;
-        color: white;
+border: 2px solid #0077b5;
         padding: 5px 10px;
         border-radius: 12px;
         font-size: 12px;
     }
     .company-badge {
-        background-color: #4a90e2;
-        color: white;
+border: 2px solid #0077b5;
         padding: 3px 8px;
         border-radius: 8px;
         font-size: 11px;

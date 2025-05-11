@@ -130,6 +130,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Michael Stattelman - 2025
 
+Medium Article: https://mstattelman.medium.com/personal-linkedin-network-visualizer-de8207adadbb
+
+
 Project Link: [https://github.com/mstatt/LinkedIn-Network-Visualizer](https://github.com/mstatt/LinkedIn-Network-Visualizer)
 
 ---
