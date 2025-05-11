@@ -1,5 +1,6 @@
 # LinkedIn Network Visualizer
 
+![](assets/banner.jpeg)
 A powerful Python application that transforms your LinkedIn connections data into an interactive network visualization. Analyze your professional network, identify patterns, and gain insights into your career connections.
 
 ![LinkedIn Network Visualizer](https://img.shields.io/badge/python-3.8+-blue.svg)
